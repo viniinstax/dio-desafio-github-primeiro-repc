@@ -1,1 +1,7 @@
 Download do Git: https://git-scm.com/download/win
+
+COMANDOS DO GIT:
+git status
+git add .
+git commit -m ""
+git push origin main
